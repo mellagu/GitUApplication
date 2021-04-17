@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GitUFavorite</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="appwidget_text">GitU Favorite U</string>
+    <string name="add_widget">Add widget</string>
+    <string name="empty_text">No Data Available</string>
+    <string name="gitu_favorite_only">GitU Favorite Only</string>
+</resources>
