@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GitU</string>
+    <string name="splash_screen">Tampilan Splash</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Home">Beranda</string>
+    <string name="Favorite">Favorit</string>
+    <string name="Information">Informasi</string>
+    <string name="username">NamaPengguna</string>
+    <string name="following">Mengikuti</string>
+    <string name="_120">120</string>
+    <string name="followers">Pengikut</string>
+    <string name="name">Nama</string>
+    <string name="repositories">Repositori</string>
+    <string name="background">latar</string>
+    <string name="back">kembali</string>
+    <string name="logo">logo</string>
+    <string name="tab_1">Pengikut</string>
+    <string name="tab_2">Mengikuti</string>
+    <string name="wave_background">wave background</string>
+    <string name="meet">Temui Developer di Seluruh Dunia</string>
+    <string name="maintanance">Halaman Ini Sedang Dalam Pengembangan</string>
+    <string name="title_home">Beranda</string>
+    <string name="title_favorite">Favorit</string>
+    <string name="title_settings">Pengaturan</string>
+    <string name="set_reminder">Atur Pengingat</string>
+    <string name="on">Hidup</string>
+    <string name="off">Mati</string>
+    <string name="change_languange">Ubah Bahasa</string>
+    <string name="settings">Pengaturan</string>
+    <string name="home">Beranda</string>
+    <string name="favorite">Favorit</string>
+    <string name="search">Cari User Favoritmu sekarang!</string>
+    <string name="reminder">Pengingat telah dibuat pukul 09.00 :)</string>
+    <string name="remindcancel">Pengingat untukmu telah dibatalkan :(</string>
+    <string name="addFavorite">User telah ditambahkan ke daftar Favorite</string>
+    <string name="deletedFavorite">User dihapus dari daftar Favorite</string>
+</resources>
